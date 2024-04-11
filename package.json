@@ -10,9 +10,12 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "pinia": "^2.1.7",
     "serve": "^14.2.0",
+    "vee-validate": "^4.12.6",
     "vue": "^3.2.47",
-    "vue-router": "^4.1.6"
+    "vue-router": "^4.1.6",
+    "yup": "^1.4.0"
   },
   "devDependencies": {
     "@headlessui/vue": "^1.7.13",
